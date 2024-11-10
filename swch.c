@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main(void){
-
     char o;
 
     printf("Enter your type (s for strate, g for gay, f for fucked up): ");

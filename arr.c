@@ -12,6 +12,8 @@ int main(void){
         printf("Enter name(%d): ", i + 1);
         scanf("%d", &a[i]);
     }
+
+    // printf
     
     for(int i = 1; i <= num; i++){
         printf("%d\n", a[num - i]);

@@ -1,7 +1,8 @@
-# c progrct
+# My first C program
 
 
 
+### Here is the program
 ```c
 #iclude <stdio.h>
 
